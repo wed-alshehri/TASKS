@@ -21,7 +21,7 @@ The dataset contains 768 entries, each representing an individual with the follo
 
 The "Diabetes Dataset" used in this project is available from [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 
-**Steps Taken**
+**Data Processing**
 
 1. Data Download: Downloaded the diabetes dataset for analysis.
 2. Naive Bayes Model Application: Applied Naive Bayes algorithm for diabetes risk prediction.
