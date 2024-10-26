@@ -41,6 +41,8 @@ Further exploration of additional algorithms, such as ensemble methods, and inve
 
 ------------------------------------------------------------------------------------------------------------------------
 
+**Market Basket:**
+
 **Introduction**
 
 In this project, a Market Basket Analysis algorithm was applied to study customer behavior and analyze data to improve services. The dataset consists of nine files, with five key files selected for analysis: category_name, products, orders, payments, and items. This analysis aims to enhance marketing strategies and improve services that meet customer needs.
@@ -77,6 +79,8 @@ The visualizations provided clear and accurate results. Overall, the findings we
 2. Regularly Update Data: Establish a routine for updating the dataset to capture current sales trends and customer preferences, ensuring the analysis remains relevant.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+**Text Analysis:**
 
 **Introduction**
 
