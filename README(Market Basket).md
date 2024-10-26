@@ -13,6 +13,10 @@ The dataset is relatively large and includes the following key files:
 - payments :Information about payment methods.
 - items: Details of items purchased within orders.
 
+**Data Source**
+
+The "Brazilian E-Commerce Dataset" used in this project is available from [Kaggle](https://www.kaggle.com/olistbr/brazilianecommerce).
+
 **Data Processing**
   
 The process began with loading the selected files and cleaning the data to remove missing values and duplicates. Various analyses were then conducted, including identifying:
@@ -31,3 +35,4 @@ The visualizations provided clear and accurate results. Overall, the findings we
 1. Utilize Advanced Analytics: Implement machine learning techniques to predict future sales trends, enhancing inventory management and marketing strategies.
 2. Regularly Update Data: Establish a routine for updating the dataset to capture current sales trends and customer preferences, ensuring the analysis remains relevant.
 
+------------------------------------------------------------------------------------------------------------------------
