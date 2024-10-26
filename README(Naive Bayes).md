@@ -1,5 +1,4 @@
-# TASKS
-**Naive Bayes Classifier:**
+# Naive Bayes Classifier:
 
 **Introduction**
 
